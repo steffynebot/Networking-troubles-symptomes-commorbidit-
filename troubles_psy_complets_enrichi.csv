@@ -1,0 +1,66 @@
+﻿Trouble,Type,Symptôme,Comorbidité,Sexe
+Trouble de la personnalité borderline,Personnalité,Instabilité émotionnelle,Troubles anxieux,Les deux
+Trouble de la personnalité borderline,Personnalité,Relations instables,Troubles de l’humeur,Les deux
+Trouble de la personnalité borderline,Personnalité,Impulsivité,Addictions,Les deux
+Trouble de la personnalité borderline,Personnalité,Colère intense,Dépression,Femme
+Trouble de la personnalité borderline,Personnalité,Dissociation,Addictions,Homme
+Trouble de la personnalité borderline,Personnalité,Sentiment de vide,Troubles alimentaires,Femme
+Trouble de la personnalité borderline,Personnalité,Peur de l’abandon,Anxiété,Les deux
+Trouble bipolaire,Humeur,Épisodes maniaques,Troubles anxieux,Les deux
+Trouble bipolaire,Humeur,Épisodes dépressifs,Suicide,Les deux
+Trouble bipolaire,Humeur,Idées de grandeur,Addictions,Les deux
+Trouble bipolaire,Humeur,Irritabilité,Trouble de personnalité borderline,Les deux
+Trouble bipolaire,Humeur,Réduction du sommeil,Addictions,Homme
+Dépression majeure,Humeur,Humeur dépressive,Anxiété,Les deux
+Dépression majeure,Humeur,Perte d'intérêt,Addictions,Les deux
+Dépression majeure,Humeur,Idées suicidaires,Troubles du sommeil,Femme
+Dépression majeure,Humeur,Fatigue,Troubles somatiques,Les deux
+Dépression majeure,Humeur,Troubles cognitifs,TDAH,Les deux
+Trouble anxieux généralisé,Anxiété,Inquiétude excessive,Dépression,Les deux
+Trouble anxieux généralisé,Anxiété,Tension musculaire,Addictions,Homme
+Trouble anxieux généralisé,Anxiété,Irritabilité,Trouble panique,Femme
+Trouble anxieux généralisé,Anxiété,Insomnie,Troubles du sommeil,Les deux
+Trouble panique,Anxiété,Attaques de panique,Dépression,Les deux
+Trouble panique,Anxiété,Palpitations,Troubles somatiques,Les deux
+Phobie sociale,Anxiété,Peur du jugement,Addictions,Les deux
+Phobie sociale,Anxiété,Évitement social,Dépression,Les deux
+Phobie spécifique,Anxiété,Peur intense,Anxiété généralisée,Les deux
+Trouble obsessionnel-compulsif (TOC),Anxiété,Compulsions,Dépression,Les deux
+Trouble obsessionnel-compulsif (TOC),Anxiété,Obsessions,Anxiété sociale,Les deux
+Trouble obsessionnel-compulsif (TOC),Anxiété,Rituels excessifs,Trouble panique,Les deux
+Stress post-traumatique (PTSD),Trauma,Flashbacks,Dépression,Les deux
+Stress post-traumatique (PTSD),Trauma,Cauchemars,Addictions,Les deux
+Stress post-traumatique (PTSD),Trauma,Hypervigilance,Troubles anxieux,Les deux
+Stress post-traumatique (PTSD),Trauma,Évitement,Dissociation,Les deux
+Schizophrénie,Neurodéveloppement,Hallucinations,Troubles anxieux,Les deux
+Schizophrénie,Neurodéveloppement,Délires,Addictions,Les deux
+Schizophrénie,Neurodéveloppement,Retrait social,Dépression,Les deux
+Schizophrénie,Neurodéveloppement,Affects plats,Troubles cognitifs,Les deux
+Trouble schizo-affectif,Neurodéveloppement,Hallucinations + Humeur dépressive,Bipolaire,Les deux
+Trouble dissociatif,Dissociatif,Amnésie,Anxiété,Les deux
+Trouble dissociatif,Dissociatif,Personnalités multiples,Dépression,Les deux
+Trouble dissociatif,Dissociatif,Dépersonnalisation,PTSD,Les deux
+Trouble du sommeil,Sommeil,Insomnie,Dépression,Les deux
+Trouble du sommeil,Sommeil,Hypersomnie,Anxiété,Les deux
+Trouble du sommeil,Sommeil,Apnées du sommeil,Troubles somatiques,Homme
+Narcolepsie,Sommeil,Somnolence diurne,Dépression,Les deux
+Trouble somatique,Somatique,Douleurs chroniques,Dépression,Les deux
+Trouble somatique,Somatique,Fatigue inexpliquée,Anxiété,Les deux
+Trouble somatique,Somatique,Préoccupations santé,Hypocondrie,Les deux
+Addiction à l’alcool,Addiction,Craving,Dépression,Homme
+Addiction à l’alcool,Addiction,Perte de contrôle,Anxiété,Homme
+Addiction aux drogues,Addiction,Craving,Dépression,Les deux
+Addiction aux drogues,Addiction,Syndrome de sevrage,Schizophrénie,Homme
+Addiction au jeu,Addiction,Perte de contrôle,Dépression,Homme
+Addiction aux écrans,Addiction,Usage excessif,TDAH,Adolescent
+Addiction au travail,Addiction,Surinvestissement,Anxiété,Adulte
+Trouble de l’alimentation,TCA,Restriction alimentaire,Dépression,Femme
+Trouble de l’alimentation,TCA,Hyperphagie,Trouble anxieux,Femme
+Trouble de l’alimentation,TCA,Image corporelle négative,Addictions,Femme
+Anorexie mentale,TCA,Restriction sévère,Dépression,Femme
+Boulimie,TCA,Compulsions alimentaires,Dépression,Femme
+Autisme,Neurodéveloppement,Difficultés sociales,Anxiété,Les deux
+Autisme,Neurodéveloppement,Comportements répétitifs,TDAH,Les deux
+TDAH,Neurodéveloppement,Inattention,Addictions,Homme
+TDAH,Neurodéveloppement,Hyperactivité,Anxiété,Homme
+TDAH,Neurodéveloppement,Impulsivité,Troubles des conduites,Homme
